@@ -26,7 +26,7 @@ Using the stock price data for AMD in 2021, we plotted a line chart to identify 
 **Primary Trend:** (Specify the time period and trend direction here, e.g., January to June - Uptrend)
 **Intermediate Trend:** (Specify the time period and trend direction here, e.g., July to September - Downtrend, October to December - Uptrend)
 
-![Line Chart](images/line_chart.png)
+![Line Chart](Line Chart.png)
 
 ### Step 3: Candlestick Pattern Analysis
 
