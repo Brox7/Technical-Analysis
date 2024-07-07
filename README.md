@@ -36,7 +36,7 @@ We drew candlestick charts to identify trend reversal patterns. Below are the id
 - **Two Candlestick Pattern:** (e.g., Bullish Engulfing, Bearish Engulfing)
 - **Three Candlestick Pattern:** (e.g., Morning Star, Evening Star)
 
-![Candlestick Chart](images/candlestick_chart.png)
+![Candlestick Chart](https://github.com/Brox7/Technical-Analysis/blob/main/Candlestick%20Chart.png)
 
 ### Step 4: Investment Strategy and Evaluation
 
