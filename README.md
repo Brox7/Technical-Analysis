@@ -49,10 +49,8 @@ With an investable sum of $1,000,000, we used leading and lagging indicators to 
 ## Files
 
 - `Technical Analysis.xlsx`: Contains all the data, charts, and calculations used in the analysis.
-- `images/`: Directory containing the charts used in the README.
 
 ## How to Use
 
 1. Open the `Technical Analysis.xlsx` file to view the detailed data and calculations.
-2. Review the charts in the `images` directory to visualize trends and patterns.
 3. Refer to the above sections for a comprehensive understanding of the analysis steps and findings.
